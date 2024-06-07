@@ -48,3 +48,5 @@
 ## Break the line :
 
 - <br> -To break the line we use <br> tag.
+- It is used to represent a clickable button.
+- It defines a division or section within HTML document. It is used to define an HTML form.
